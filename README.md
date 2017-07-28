@@ -1,2 +1,2 @@
 # word2vec
-To find similar words in chats
+To find similiar words in chats
