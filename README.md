@@ -1,2 +1,2 @@
 # word2vec
-adidas chats
+To find similar words in chats
