@@ -1,10 +1,10 @@
 import sys
 from imp import reload
-path='D:/project/adidas'
-sys.path.append(path)
+#path='D:/project/adidas'
+#sys.path.append(path)
 import datetime
 starttime=datetime.datetime.now()
-#import 多格式文本读取 as mrd
+import multi_read as mrd
 reload(mrd)
 from gensim import models
 
